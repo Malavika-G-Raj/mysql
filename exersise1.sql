@@ -1,0 +1,10 @@
+use insurance;
+-- create table accident (report_no int, a_date date, location varchar(60));
+-- alter table owns add primary key(report_no,license);
+-- create table owns (report_no int ,license int);
+-- alter table participated add foreign key(driver_id) references person(driver_id);
+-- alter table car rename to vehicle;
+-- ALTER TABLE accident CHANGE report_no report_number INT(11) ;
+-- alter table person add column gender varchar(40);
+-- alter table accident drop column location;
+-- alter table participated modify damage_amout float;
